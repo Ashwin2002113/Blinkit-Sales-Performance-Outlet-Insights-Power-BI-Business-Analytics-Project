@@ -112,8 +112,8 @@ Item visibility plays a significant role in sales contribution
 
 * **Dashboard Preview**
 <img width="1171" height="664" alt="Blinkit project 1" src="https://github.com/user-attachments/assets/473324db-b0b5-4647-9159-5cc0a96a8c83" />
-<img width="1589" height="692" alt="Blinkit project 3" src="https://github.com/user-attachments/assets/75956f7d-687a-427a-9494-837818cba8d3" />
 <img width="1176" height="677" alt="Blinkit Project 2" src="https://github.com/user-attachments/assets/63c3cc63-7502-4bb8-9945-b8cd5bde4de6" />
+<img width="1589" height="692" alt="Blinkit project 3" src="https://github.com/user-attachments/assets/75956f7d-687a-427a-9494-837818cba8d3" />
 
 * **Key Skills Demonstrated**
 
